@@ -61,3 +61,9 @@ Add real-time traffic data into the score calculation.
 Build a simple mobile app that sends live GPS coordinates to this backend.
 
 Save all trips and analytics into a database for reporting.
+
+## License
+This project is proprietary.  
+**All rights reserved.**  
+You may not copy, modify, or use this project without written permission.
+
